@@ -49,7 +49,7 @@
 
 > Here are a few projects I’ve worked on recently 👇
 
-1. [**Tic-Tac-Toe AI**](https://github.com/HuzaifaAhmed-07/tictactoe-ai)
+1. [**Tic-Tac-Toe AI**](https://github.com/HuzaifaAhmed-07/TIC-TAC-TOE)
    
    🎮 A C++ console-based game with AI player using minimax algorithm.
 

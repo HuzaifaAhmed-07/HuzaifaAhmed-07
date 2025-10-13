@@ -1,8 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5EFCE8&height=200&section=header&text=Huzaifa%20Ahmed%20👋&fontSize=40&fontColor=ffffff&animation=twinkling" alt="Header"/>
+</p>
 
-<!-- Add a banner or GIF -->
-<!-- <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="Hi">
-</p> -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Scientist+in+Progress+🚀;C%2B%2B+%7C+Python+%7C+Web+Developer;Open+Source+Learner+%26+Problem+Solver+💡" alt="Typing SVG" />
+</p>
+
 
 # 👋 Hi, I'm **Huzaifa Ahmed**
 

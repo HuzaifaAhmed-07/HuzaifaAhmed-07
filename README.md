@@ -11,7 +11,7 @@
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 - [About Me](#-about-me)
 - [Skills](#%EF%B8%8Fskills)
 - [My GitHub Repositories](#my-github-repositories)
@@ -47,11 +47,17 @@
 
 > Here are a few projects I’ve worked on recently 👇
 
-1. [**Tic-Tac-Toe AI**](https://github.com/HuzaifaAhmed-07/tictactoe-ai)  
+1. [**Tic-Tac-Toe AI**](https://github.com/HuzaifaAhmed-07/tictactoe-ai)
+   
    🎮 A C++ console-based game with AI player using minimax algorithm.
 
-2. [**Instagram Clone**](https://github.com/HuzaifaAhmed-07/instagram-clone)  
+3. [**Instagram Clone**](https://github.com/HuzaifaAhmed-07/instagram-clone)
+   
    📸 A GUI-based social media replica using OOP concepts and file handling.
+   
+5. [**Student Result Managemnt System**](https://github.com/HuzaifaAhmed-07/Student-Result-Management-System)
+   
+   💻 A simple **C++ console-based project** that allows teachers to efficiently **manage, calculate, and analyze students’ results** using data from a CSV file.
 
 
 ---
@@ -70,6 +76,7 @@
 |---------------|-------------|--------------|
 | **Tic-Tac-Toe AI** | C++, Algorithms | AI-based game simulation |
 | **Instagram Clone** | C++/CLI, File Handling | GUI-based OOP project |
+| **Result Management**| C++, File Handling | Console Based |
 
 ---
 

@@ -3,11 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Scientist+in+Progress+🚀;C%2B%2B+%7C+Python+%7C+Web+Developer;Open+Source+Learner+%26+Problem+Solver+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Scientist+in+Progress+🚀;C%2B%2B+%7C+Python+%7C+Web+Developer;Passionate+About+AI+%26+Data+Insights+📊" alt="Typing SVG" />
 </p>
 
-
-# 👋 Hi, I'm **Huzaifa Ahmed**
+---
 
 > “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”  
 > -Martin Fowler
@@ -27,7 +26,7 @@
 ## 🧭 About Me
 
 **Full Name:** Huzaifa Ahmed  
-**University:** Punjab University College of information Technology (PUCIT)
+**University:** Punjab University College of information Technology (PUCIT)  
 **Department:** Data Science  
 
 🎓 I’m a passionate Data Science student who loves solving problems and building creative software projects.  

@@ -11,7 +11,7 @@
 
 ---
 
-## 🧭 Table of Contents
+## Table of Contents
 - [About Me](#-about-me)
 - [Skills](#%EF%B8%8Fskills)
 - [My GitHub Repositories](#my-github-repositories)
@@ -64,7 +64,7 @@
 
 ---
 
-## 🧱 Projects & Experience (Table Format)
+## 🧱 Projects & Experience
 
 | Project Name | Tech Stack | Description |
 |---------------|-------------|--------------|

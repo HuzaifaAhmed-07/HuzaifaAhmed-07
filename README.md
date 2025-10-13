@@ -76,7 +76,7 @@
 ## ✨Contact Me {#contact-me}
 
 📧 **Email:** [huzaifaaahmed164@gmail.com](huzaifaaahmed164@gmail.com)  
-🔗 **LinkedIn:** [https://linkedin.com/in/huzaifa-ahmed-81a512297/](https://linkedin.com/in/huzaifa-ahmed-81a512297/)  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/huzaifa-ahmed-81a512297/](https://www.linkedin.com/in/huzaifa-ahmed-81a512297/) 
 
 ---
 

@@ -14,9 +14,9 @@
 ## 🧭 Table of Contents
 - [About Me](#-about-me)
 - [Skills](#%EF%B8%8Fskills)
-- [My GitHub Repositories](#-my-github-repositories)
-- [Stats & GitHub Activity](#-stats--github-activity)
-- [Contact Me](#contact_me)
+- [My GitHub Repositories](#my-github-repositories)
+- [Stats & GitHub Activity](#stats--github-activity)
+- [Contact Me](#contact-me)
 - [My Goals](#-my-goals)
 
 ---
@@ -73,7 +73,7 @@
 
 ---
 
-## ✨Contact Me {#contact-me}
+## ✨Contact Me
 
 📧 **Email:** [huzaifaaahmed164@gmail.com](huzaifaaahmed164@gmail.com)  
 🔗 **LinkedIn:** [https://www.linkedin.com/in/huzaifa-ahmed-81a512297/](https://www.linkedin.com/in/huzaifa-ahmed-81a512297/) 

@@ -15,7 +15,7 @@
 
 ## 📑 Table of Contents
 - [About Me](#-about-me)
-- [Skills](#️skills)
+- [Skills](#️-Skills)
 - [My GitHub Repositories](#my-github-repositories)
 - [Stats & GitHub Activity](#stats--github-activity)
 - [Contact Me](#contact-me)

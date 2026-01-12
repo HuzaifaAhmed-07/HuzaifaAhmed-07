@@ -64,7 +64,8 @@ Here are some of my **notable projects** that I’ve built and maintained:
 
 ## 📊 GitHub Stats & Activity
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/HuzaifaAhmed-07?theme=dark)](https://github.com/HuzaifaAhmed-07)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=HuzaifaAhmed-07&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=HuzaifaAhmed-07&layout=compact&theme=radical)
 
 ---
 

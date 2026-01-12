@@ -64,8 +64,9 @@ Here are some of my **notable projects** that I’ve built and maintained:
 
 ## 📊 GitHub Stats & Activity
 
-![GitHub Stats](https://github-readme-stats-git-master-huzaifaahmed-07.vercel.app/api?username=HuzaifaAhmed-07&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats-git-master-huzaifaahmed-07.vercel.app/api/top-langs/?username=HuzaifaAhmed-07&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HuzaifaAhmed-07&show_icons=true&theme=radical)
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HuzaifaAhmed-07&layout=compact&theme=radical)
 
 ---
 
